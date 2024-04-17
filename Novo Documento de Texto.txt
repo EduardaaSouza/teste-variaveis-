@@ -14,3 +14,6 @@ console.log("idade em 2050", futuro)
 //perguntar o ano atual 
 //calcular a idade da pessoa
 //calcular idade da pessoa em 2050
+
+console.log("nome", nome)
+//imprimir dados no console
