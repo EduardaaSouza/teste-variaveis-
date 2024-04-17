@@ -1,0 +1,16 @@
+const nome = prompt("qual seu nome?")
+const anodenascimento = Number(prompt("que ano voce nasceu?"))
+const anoatual = Number(prompt("em que ano estamos?")) 
+const idadeAtl = anoatual - anodenascimento
+const futuro = 2050 - anodenascimento
+
+console.log("nome",nome)
+console.log("ano de nascimento", anodenascimento)
+console.log("iadade atual", idadeAtl )
+console.log("idade em 2050", futuro)
+
+//perguntar o nome da pessoa
+//perguntar o ano de nascimneto
+//perguntar o ano atual 
+//calcular a idade da pessoa
+//calcular idade da pessoa em 2050
